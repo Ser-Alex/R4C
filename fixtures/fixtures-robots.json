@@ -1,0 +1,32 @@
+[
+  {
+    "model": "robots.robot",
+    "pk": 7,
+    "fields": {
+      "serial": "R2-D2",
+      "model": "R2",
+      "version": "D2",
+      "created": "2022-12-31T23:59:59"
+    }
+  },
+  {
+    "model": "robots.robot",
+    "pk": 8,
+    "fields": {
+      "serial": "13-XS",
+      "model": "13",
+      "version": "XS",
+      "created": "2023-01-01T00:00:00"
+    }
+  },
+  {
+    "model": "robots.robot",
+    "pk": 9,
+    "fields": {
+      "serial": "X5-LT",
+      "model": "X5",
+      "version": "LT",
+      "created": "2023-01-01T00:00:01"
+    }
+  }
+]
