@@ -28,5 +28,85 @@
       "version": "LT",
       "created": "2023-01-01T00:00:01"
     }
+  },
+  {
+    "model": "robots.robot",
+    "pk": 29,
+    "fields": {
+      "serial": "R2-D2",
+      "model": "R2",
+      "version": "D2",
+      "created": "2023-09-30T23:59:59"
+    }
+  },
+  {
+    "model": "robots.robot",
+    "pk": 30,
+    "fields": {
+      "serial": "R2-D2",
+      "model": "R2",
+      "version": "D2",
+      "created": "2023-09-30T22:59:59"
+    }
+  },
+  {
+    "model": "robots.robot",
+    "pk": 31,
+    "fields": {
+      "serial": "R2-D2",
+      "model": "R2",
+      "version": "D2",
+      "created": "2023-09-30T20:59:59"
+    }
+  },
+  {
+    "model": "robots.robot",
+    "pk": 32,
+    "fields": {
+      "serial": "13-XS",
+      "model": "13",
+      "version": "XS",
+      "created": "2023-09-30T20:59:59"
+    }
+  },
+  {
+    "model": "robots.robot",
+    "pk": 33,
+    "fields": {
+      "serial": "R2-A!",
+      "model": "R2",
+      "version": "A1",
+      "created": "2023-09-30T20:59:59"
+    }
+  },
+  {
+    "model": "robots.robot",
+    "pk": 34,
+    "fields": {
+      "serial": "X5-LT",
+      "model": "X5",
+      "version": "LT",
+      "created": "2023-10-01T00:00:01"
+    }
+  },
+  {
+    "model": "robots.robot",
+    "pk": 35,
+    "fields": {
+      "serial": "X5-4T",
+      "model": "X5",
+      "version": "4T",
+      "created": "2023-10-01T00:00:01"
+    }
+  },
+  {
+    "model": "robots.robot",
+    "pk": 36,
+    "fields": {
+      "serial": "X5-5T",
+      "model": "X5",
+      "version": "5T",
+      "created": "2023-10-01T00:00:01"
+    }
   }
 ]
